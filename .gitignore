@@ -64,3 +64,5 @@ stylecop.*
 ~$*
 *.dbmdl
 Generated_Code #added for RIA/Silverlight projects
+*.exe
+*.idb
